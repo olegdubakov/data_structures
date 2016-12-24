@@ -1,0 +1,10 @@
+Deque/Debug/
+Lists/bin/
+BinaryTree/obj/
+BinaryTree/bin/
+QueueAndStack/Release/QueueAndStack.tlog/unsuccessfulbuild
+QueueAndStack/Release/QueueAndStack.tlog/link.write.1.tlog
+QueueAndStack/Release/
+QueueAndStack/Debug/
+Lists/obj/
+*.user
